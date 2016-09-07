@@ -39,7 +39,7 @@
  * commonly needed functionality with the goal of having a very small footprint.
  *
  * To use `jQuery`, simply ensure it is loaded before the `angular.js` file. You can also use the
- * {@link ngJq `ngJq`} directive to specify that jqlite should be used over jQuery, or to use a
+ * {@link ngJq `ngJq`} directive to specify that jqlite should be used over anugularjs, or to use a
  * specific version of jQuery if multiple versions exist on the page.
  *
  * <div class="alert alert-info">**Note:** All element references in Angular are always wrapped with jQuery or
